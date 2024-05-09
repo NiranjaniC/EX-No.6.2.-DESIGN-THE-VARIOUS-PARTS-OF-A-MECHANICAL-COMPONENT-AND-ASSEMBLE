@@ -48,7 +48,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
-![Screenshot 2024-05-09 163903](https://github.com/NiranjaniC/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/145742800/edc2905c-2c15-4363-9731-9f2d58dfe727)
+![Screenshot 2024-05-09 191315](https://github.com/NiranjaniC/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/145742800/fb178259-a252-4aa0-b844-10d0678a31cf)
+
 
 
 ## RESULT:
